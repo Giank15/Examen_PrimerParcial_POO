@@ -1,0 +1,13 @@
+C:\Users\Usuario\source\repos\ExamenPrimerParcial\ExamenPrimerParcial\bin\Debug\netcoreapp3.1\ExamenPrimerParcial.exe
+C:\Users\Usuario\source\repos\ExamenPrimerParcial\ExamenPrimerParcial\bin\Debug\netcoreapp3.1\ExamenPrimerParcial.deps.json
+C:\Users\Usuario\source\repos\ExamenPrimerParcial\ExamenPrimerParcial\bin\Debug\netcoreapp3.1\ExamenPrimerParcial.runtimeconfig.json
+C:\Users\Usuario\source\repos\ExamenPrimerParcial\ExamenPrimerParcial\bin\Debug\netcoreapp3.1\ExamenPrimerParcial.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\ExamenPrimerParcial\ExamenPrimerParcial\bin\Debug\netcoreapp3.1\ExamenPrimerParcial.dll
+C:\Users\Usuario\source\repos\ExamenPrimerParcial\ExamenPrimerParcial\bin\Debug\netcoreapp3.1\ExamenPrimerParcial.pdb
+C:\Users\Usuario\source\repos\ExamenPrimerParcial\ExamenPrimerParcial\obj\Debug\netcoreapp3.1\ExamenPrimerParcial.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\ExamenPrimerParcial\ExamenPrimerParcial\obj\Debug\netcoreapp3.1\ExamenPrimerParcial.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\ExamenPrimerParcial\ExamenPrimerParcial\obj\Debug\netcoreapp3.1\ExamenPrimerParcial.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\ExamenPrimerParcial\ExamenPrimerParcial\obj\Debug\netcoreapp3.1\ExamenPrimerParcial.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ExamenPrimerParcial\ExamenPrimerParcial\obj\Debug\netcoreapp3.1\ExamenPrimerParcial.dll
+C:\Users\Usuario\source\repos\ExamenPrimerParcial\ExamenPrimerParcial\obj\Debug\netcoreapp3.1\ExamenPrimerParcial.pdb
+C:\Users\Usuario\source\repos\ExamenPrimerParcial\ExamenPrimerParcial\obj\Debug\netcoreapp3.1\ExamenPrimerParcial.genruntimeconfig.cache
